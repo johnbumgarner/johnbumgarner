@@ -1,11 +1,11 @@
 ### HelloWorld
 
-- 🔭 I’m currently working on these opensource projects: 
+- 🔭 I’m currently working on these open source projects: 
   - [NewsHound](https://github.com/johnbumgarner/newshound)
   - [WordHoard](https://github.com/johnbumgarner/wordhoard)
   
 - 🔭 I’m currently working on these startup projects: 
- - [Foliofficient](https://www.foliofficient.com)
+  - [Foliofficient](https://www.foliofficient.com)
 
 - ⚡ Fun facts:
   - I have won mutiple awards for cooking
