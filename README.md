@@ -8,10 +8,11 @@
   - [Foliofficient](https://www.foliofficient.com)
 
 - ⚡ Fun facts:
+  - I am an inspiring woodworker
   - I have won mutiple awards for cooking
-  - I have had dinner at one of the British Royal Family Residence
-  - I have attended jungle survival schools in Panama(USASOC) and Philippines(Marines)
   - I have lectured on cyberwar around the world
+  - I have had dinner at one of the British Royal Family residences
+  - I have attended jungle survival schools in Panama(USASOC) and Philippines(Marines)
 
 <!--
 **johnbumgarner/johnbumgarner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
