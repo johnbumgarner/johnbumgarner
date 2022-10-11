@@ -8,7 +8,7 @@
   - [Foliofficient](https://www.foliofficient.com)
 
 - ⚡ Fun facts:
-  - I am an inspiring woodworker
+  - I am an aspiring woodworker
   - I have won mutiple awards for cooking
   - I have lectured on cyberwar around the world
   - I have had dinner at one of the British Royal Family residences
