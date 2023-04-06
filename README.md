@@ -3,9 +3,6 @@
 - 🔭 I’m currently working on these open source projects: 
   - [NewsHound](https://github.com/johnbumgarner/newshound)
   - [WordHoard](https://github.com/johnbumgarner/wordhoard)
-  
-- 🔭 I’m currently working on these startup projects: 
-  - [Foliofficient](https://www.foliofficient.com)
 
 - ⚡ Fun facts:
   - I am an aspiring woodworker
@@ -17,6 +14,8 @@
 <!--
 **johnbumgarner/johnbumgarner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+ 🔭 I’m currently working on these startup projects: 
+- [Foliofficient](https://www.foliofficient.com)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
