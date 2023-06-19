@@ -32,8 +32,11 @@ Here are some ideas to get you started:
 ## GitHub Statistics
 <p align="left">
 <a href="https://github.com/johnbumgarner">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnbumgarner&show_icons=true&theme=dark&line_height=27" alt="Naqvi's github stats"/></a>
-<!---
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnbumgarner&show_icons=true&theme=dark&line_height=27" alt="Naqvi's github stats"/></a> -->
+
+[![johnbumgarner's GitHub stats](https://github-readme-stats-git-addpercentilerankicon-rickstaa.vercel.app/api?username=johnbumgarner&rank_icon=percentile&show_icons=true&theme=dark&line_height=27)](https://github.com/johnbumgarner/github-readme-stats)
+  
+<!--
 <a href="https://github.com/johnbumgarner">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnbumgarner&theme=dark&hide_langs_below=1" /></a>
 -->
